@@ -78,3 +78,6 @@ DerivedDataCache/*
 SixAgain/Saved/SourceControl/UncontrolledChangelists.json
 *.log
 /SixAgain/Saved/Crashes
+SixAgain/Saved/AutoScreenshot.png
+/SixAgain/Saved/Config/CrashReportClient
+/SixAgain/Saved
